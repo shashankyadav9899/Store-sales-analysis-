@@ -80,14 +80,14 @@ ghaziabad-grocery-sales-dashboard/
 
 ## How to use
 
-1. Clone the repo: `git clone <your-repo-url>`
+1. Clone the repo: `https://github.com/shashankyadav9899/Store-sales-analysis`
 2. Open `dashboard/dashboards.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Windows).
 3. If visuals show no data, go to **Transform data > Data source settings** and point the `sales` table at `data/sales.csv`.
 
 ## Tools
 
-Power BI Desktop, CSV data.
+ Excel Power BI Desktop, CSV data.
 
 ## Author
 
-shankyyadav9899@gmail.com
+shashank yadav
